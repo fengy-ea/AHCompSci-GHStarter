@@ -10,17 +10,20 @@ Expected final output:
 
 def add(a, b):
     # TODO: return the sum of a and b
-    return 0
+    sum = a + b
+    return sum
 
 
 def multiply(a, b):
     # TODO: return the product of a and b
-    return 0
+    product = a * b
+    return product
 
 
 def subtract(a, b):
     # TODO: return a minus b
-    return 0
+    diff = a - b
+    return diff
 
 
 print(add(3, 5))
